@@ -1,3 +1,3 @@
 # House-Price-Prediction-Kaggle Dataset
 
-Please run first EDA and then Feature Engg. and Classification
+Please run first EDA.ipynb and then Feature Engg. and Classification notebooks
